@@ -12,6 +12,8 @@ Optimization & Linear Programming: With a professional master’s degree in oper
 
 I'm excited to share my work on time series analysis, data visualization, and optimization models. My repositories will feature projects that showcase my skills in linear programming, data-driven decision making, and automation.
 
+When I’m not diving into data, you can find me exploring new places, playing soccer, reading, or working on self-development. I believe in continuous learning and enjoy taking on new challenges that push me to grow both personally and professionally.
+
 🌐 Let's Connect:
 I'm open to collaboration and always eager to learn from others in the data science and analytics community. Feel free to connect with me on LinkedIn or reach out via email at emmanuel.demarch@gmail.com.
 <!---
